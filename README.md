@@ -14,7 +14,7 @@ To tackle the predictive challenge, we implemented a wide range of machine learn
 - **Decision Trees**
 - **Random Forest**
 - **Gradient Boosting**
-- **Support Vector Regression**
+- **LightGBM**
 - **XGBoost**
 - And several others.
 
